@@ -1,0 +1,3 @@
+{
+  "collections": ["items", "storeprofiles", "itemimages", "storedevices", "storeconfiguration"]
+}

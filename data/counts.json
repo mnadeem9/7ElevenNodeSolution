@@ -1,0 +1,427 @@
+[
+  {
+    "collection": "items",
+    "storeId:": "35378",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "35378",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "35378",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "35378",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "35378",
+    "counts": 150,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "35378",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "35378",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "35378",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "35378",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "35378",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "35378",
+    "counts": 12,
+    "database": "db1"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "35378",
+    "counts": 200,
+    "database": "db2"
+  },
+
+  {
+    "collection": "items",
+    "storeId:": "26673",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "26673",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26673",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26673",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26673",
+    "counts": 40,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26673",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26673",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26673",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26673",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26673",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26673",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26673",
+    "counts": 200,
+    "database": "db2"
+  },
+
+  {
+    "collection": "items",
+    "storeId:": "26676",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "26676",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26676",
+    "counts": 20,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26676",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26676",
+    "counts": 150,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26676",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26676",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26676",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26676",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26676",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26676",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26676",
+    "counts": 200,
+    "database": "db2"
+  },
+
+  {
+    "collection": "items",
+    "storeId:": "26678",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "26678",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26678",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26678",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26678",
+    "counts": 20,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26678",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26678",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26678",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26678",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26678",
+    "counts": 300,
+    "database": "db2"
+  },
+
+  {
+    "collection": "items",
+    "storeId:": "26679",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "26679",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26679",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26679",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26679",
+    "counts": 150,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26679",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26679",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26679",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26679",
+    "counts": 10,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26679",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26679",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26679",
+    "counts": 200,
+    "database": "db2"
+  },
+
+  {
+    "collection": "items",
+    "storeId:": "26690",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "items",
+    "storeId:": "26690",
+    "counts": 250,
+    "database": "db2"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26690",
+    "counts": 200,
+    "database": "db1"
+  },
+  {
+    "collection": "storeprofiles",
+    "storeId:": "26690",
+    "counts": 120,
+    "database": "db2"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26690",
+    "counts": 150,
+    "database": "db1"
+  },
+  {
+    "collection": "itemimages",
+    "storeId:": "26690",
+    "counts": 160,
+    "database": "db2"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26690",
+    "counts": 300,
+    "database": "db1"
+  },
+  {
+    "collection": "storedevices",
+    "storeId:": "26690",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26690",
+    "counts": 20,
+    "database": "db1"
+  },
+  {
+    "collection": "storeconfiguration",
+    "storeId:": "26690",
+    "counts": 300,
+    "database": "db2"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26690",
+    "counts": 1,
+    "database": "db1"
+  },
+  {
+    "collection": "productlookups",
+    "storeId:": "26690",
+    "counts": 200,
+    "database": "db2"
+  }
+]

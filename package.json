@@ -1,0 +1,16 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "keywords": [],
+  "author": "7-11",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
